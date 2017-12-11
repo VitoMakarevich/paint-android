@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/vito/StudioProjects/Paint/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/vito/StudioProjects/Paint/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ea9ed219c007462e84e0a5028397272c303b9877/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vito/StudioProjects/Paint/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="099f386b83b3c9fc1daa0ce27782c40a55ab8946">
+        <dex dex="/home/vito/StudioProjects/Paint/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a91a2f50fcfc0c81b7eafd8cdd287480afe4b983/classes.dex" />
+    </item>
+
+</items>

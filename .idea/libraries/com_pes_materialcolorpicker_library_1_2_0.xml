@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.pes.materialcolorpicker:library-1.2.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/cc95a4f57ae3fce7b71465b8be7fc09499a30562/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/cc95a4f57ae3fce7b71465b8be7fc09499a30562/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pes.materialcolorpicker/library/1.2.0/995f4696faa9e1d29cc55341775fe69ff0853425/library-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
